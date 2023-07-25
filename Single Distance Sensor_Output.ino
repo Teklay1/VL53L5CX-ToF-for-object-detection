@@ -1,3 +1,6 @@
+/*This is basically to test the performance of the distance sensor, which is going to use for object detection in my case. 
+  however, have different purposes in different areas.
+*/
 #include <Wire.h>
 
 #include <SparkFun_VL53L5CX_Library.h> //http://librarymanager/All#SparkFun_VL53L5CX
