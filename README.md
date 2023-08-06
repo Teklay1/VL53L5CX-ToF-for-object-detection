@@ -1,5 +1,5 @@
 # VL53L5CX-ToF-for-object-detection
-![main](Images/SparkFun Qwiic Mini ToF Imager - VL53L5CX.jpeg) <br /> 
+![main](Images/ToF_Imager_VL53L5CX.JPEG) <br /> 
 (SparkFun Mini ToF Distsnce Imager)
 
 ## Introduction
