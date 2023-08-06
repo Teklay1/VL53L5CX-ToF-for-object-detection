@@ -1,4 +1,6 @@
 # VL53L5CX-ToF-for-object-detection
+![main](Images/SparkFun Qwiic Mini ToF Imager - VL53L5CX.jpeg) <br /> 
+(SparkFun Mini ToF Distsnce Imager)
 
 ## Introduction
 Using a I2C connected multiple VL53L5CX distance sensors to detect objects. 
